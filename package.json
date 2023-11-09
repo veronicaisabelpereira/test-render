@@ -1,0 +1,8 @@
+{
+  "name": "test-render",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/veronicaisabelpereira/test-render.git",
+  "author": "veronicaisabelpereira <veronicaisabelpereira80@gmail.com>",
+  "license": "MIT"
+}
